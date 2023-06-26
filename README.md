@@ -17,9 +17,8 @@ http://localhost:8080/RESTTranslator/rest/translator?ukrainian_word=привіт
 
 1. hibernate.properties, а не hibernate.cfg.xml
 2. в HibernateUtil.java
-
-   ```
-factory = new Configuration()
+```
+   factory = new Configuration()
           .addAnnotatedClass(Translations.class)
           .buildSessionFactory();
-   ```
+```

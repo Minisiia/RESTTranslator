@@ -34,6 +34,7 @@
       <artifactId>hibernate-core</artifactId>
       <version>5.2.0.Final</version>
     </dependency>
+
   </dependencies>
   <build>
     <finalName>RESTTranslator</finalName>

@@ -13,6 +13,8 @@ Implement your first simple REST word translation services. The service knows ab
 
 http://localhost:8080/RESTTranslator/rest/translator?ukrainian_word=привіт
 
+![rest](https://github.com/Minisiia/RESTTranslator/assets/113467640/1885d46f-f5b8-401e-82b3-8615cbd513eb)
+
 ### Особенности
 
 1. hibernate.properties, а не hibernate.cfg.xml
